@@ -4,6 +4,8 @@
 
 Aplicación web dinámica desarrollada con tecnologías nativas (Vanilla HTML, CSS y JS) que permite la generación, conversión y gestión interactiva de paletas cromáticas aleatorias en formatos HSL y HEX.
 
+🚀 **Sitio publicado:** [Ver aplicación en GitHub Pages](https://dantecaceres92.github.io/ProyectoM1_DanteCaceres/)  
+
 ---
 
 ## Tabla de Contenido
@@ -25,13 +27,6 @@ Aplicación web dinámica desarrollada con tecnologías nativas (Vanilla HTML, C
 ## Visión General
 
 **ColorFly** es un generador de esquemas de color orientado a diseñadores y desarrolladores web. La herramienta permite construir combinaciones cromáticas de 6, 8 o 9 bloques en un solo clic. Internamente, la aplicación procesa la tonalidad, saturación y luminosidad mediante el modelo espacial **HSL**, calculando de forma limpia su representación equivalente en sistema hexadecimal (**HEX**). El usuario puede alternar la notación visible y copiar al portapapeles cualquier valor cromático de manera inmediata.
-
----
-
-## Demostración en Línea
-
-🚀 **Sitio publicado:** [Ver aplicación en GitHub Pages](https://dantecaceres92.github.io/tu-repositorio/)  
-*(Asegúrate de reemplazar el enlace con la URL de tu repositorio desplegado)*
 
 ---
 
