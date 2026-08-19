@@ -65,12 +65,6 @@ Aplicación web dinámica desarrollada con tecnologías nativas (Vanilla HTML, C
 │   └── styles.css
 ├── js/
 │   └── script.js
-├── assets/
-│   ├── logo.svg
-│   └── favicon.ico
-├── documentacion/
-│   ├── bitacora-desarrollo.md
-│   └── capturas/
 └── README.md
 ```
 
@@ -84,7 +78,7 @@ Para correr el proyecto en tu entorno local sin depender de herramientas de comp
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/dantecaceres92/nombre-de-tu-repositorio.git
+   git clone https://github.com/dantecaceres92/ProyectoM1_DanteCaceres.git
    ```
 
 2. **Acceder a la carpeta del proyecto:**
@@ -106,7 +100,7 @@ Para publicar la aplicación en línea a través de GitHub Pages:
 2. Navega en el menú lateral hasta la sección **Pages**.
 3. En el apartado **Build and deployment** -> **Source**, selecciona la opción `Deploy from a branch`.
 4. Elige la rama `main` y define la carpeta `/ (root)`.
-5. Guarda los cambios. En un par de minutos, GitHub generará la URL pública bajo el dominio `https://dantecaceres92.github.io/nombre-de-tu-repositorio/`.
+5. Guarda los cambios. En un par de minutos, GitHub generará la URL pública bajo el dominio `https://dantecaceres92.github.io/ProyectoM1_DanteCaceres/`.
 
 ---
 
