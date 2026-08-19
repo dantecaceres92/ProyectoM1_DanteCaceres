@@ -2,7 +2,7 @@
 
 **Proyecto Integrador — Módulo 1: Desarrollo Web Full Stack (Henry)**
 
-Aplicación web dinámica desarrollada con tecnologías nativas (Vanilla HTML, CSS y JS) que permite la generación, conversión y gestión interactiva de paletas cromáticas aleatorias en formatos HSL y HEX.
+Aplicación web dinámica desarrollada con tecnologías nativas (HTML, CSS y JS) que permite la generación, conversión y gestión interactiva de paletas cromáticas aleatorias en formatos HSL y HEX.
 
 🚀 **Sitio publicado:** [Ver aplicación en GitHub Pages](https://dantecaceres92.github.io/ProyectoM1_DanteCaceres/)  
 
@@ -65,6 +65,9 @@ Aplicación web dinámica desarrollada con tecnologías nativas (Vanilla HTML, C
 │   └── styles.css
 ├── js/
 │   └── script.js
+├── documentacion/
+│   ├── uso-ia.md
+│   └── capturas/
 └── README.md
 ```
 
