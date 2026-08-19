@@ -86,7 +86,7 @@ Para correr el proyecto en tu entorno local sin depender de herramientas de comp
 
 2. **Acceder a la carpeta del proyecto:**
    ```bash
-   cd nombre-de-tu-repositorio
+   cd ProyectoM1_DanteCaceres
    ```
 
 3. **Ejecutar la aplicación:**
